@@ -1,10 +1,13 @@
-version: '3.5'
+version: '3'
 services:
+  proxy:
+    restart: always
+    build: ./nginx/
+    ports:
+      - '8080:80'
   database:
     image: 'mongo'
-  server:
+  back:
     build: ./server/
   front:
     build: ./front/
-    ports:
-      - '8080:80'

@@ -7,8 +7,8 @@ import logger from './utils/logging'
 
 const app = express()
 
-database()
 middlewares(app)
+database()
 apolloConnect(app)
 
 app.listen(config.get('PORT'), () => {

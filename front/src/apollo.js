@@ -5,7 +5,7 @@ import _ from 'lodash'
 export const error = new EventEmitter()
 
 const client = new ApolloClient({
-  uri: 'http://server/graphql',
+  uri: '/graphql',
   onError: ({ graphQLErrors }) => {
     _.throttle(() => {
       error.emit('error', graphQLErrors)
