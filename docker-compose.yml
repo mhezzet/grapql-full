@@ -1,0 +1,10 @@
+version: '3.5'
+services:
+  database:
+    image: 'mongo'
+  server:
+    build: ./server/
+  front:
+    build: ./front/
+    ports:
+      - '8080:80'

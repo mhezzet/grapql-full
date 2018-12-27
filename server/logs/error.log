@@ -1,0 +1,4 @@
+{"message":"MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]","level":"error"}
+{"message":"MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]","level":"error"}
+{"message":"TypeError: Cannot convert object to primitive value","level":"error"}
+{"message":"TypeError: db.STATES is not a function","level":"error"}

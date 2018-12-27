@@ -1,0 +1,44 @@
+#wraper {
+  column-count: 5;
+  min-height: 85vh;
+}
+
+#wraper > a {
+  overflow: hidden;
+  position: relative;
+  -webkit-column-break-inside: avoid;
+  margin: 1rem auto;
+}
+
+@media only screen and (min-width: 1201px) {
+  #wraper {
+    column-count: 5;
+  }
+}
+
+@media only screen and (max-width: 1200px) and (min-width: 992px) {
+  #wraper {
+    column-count: 4;
+  }
+}
+@media only screen and (max-width: 991px) and (min-width: 631px) {
+  #wraper {
+    column-count: 3;
+  }
+}
+
+@media only screen and (max-width: 630px) and (min-width: 411px) {
+  #wraper {
+    column-count: 2;
+  }
+}
+
+@media only screen and (max-width: 410px) {
+  #wraper {
+    column-count: 1;
+  }
+}
+
+.center {
+  margin: 0 auto;
+}

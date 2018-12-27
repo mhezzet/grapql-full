@@ -1,0 +1,984 @@
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]","level":"error"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"MongoNetworkError: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]","level":"error"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"connected to 5.4.0","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"connected to 5.4.0","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"TypeError: Cannot convert object to primitive value","level":"error"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"✔ connected to function NativeConnection() {\n  MongooseConnection.apply(this, arguments);\n  this._listening = false;\n}","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"TypeError: db.STATES is not a function","level":"error"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"✔ connected to development db","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"✔ connected to development db","level":"info"}
+{"message":"👁‍🗨 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"✔ connected to development db","level":"info"}
+{"message":"👁‍🗨 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"✔ connected to development db","level":"info"}
+{"message":"👁‍🗨running env: development","level":"info"}
+{"message":"🚀  Server ready @port: 3000","level":"info"}
+{"message":"✔ connected to development db","level":"info"}
+{"message":"👁‍🗨 running env: development","level":"info"}
+{"message":"🚀Server ready @port: 3000","level":"info"}
+{"message":"✔ connected to development db","level":"info"}
+{"message":"❕ running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"❕ running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"🌐 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}
+{"message":"💭 running env: development","level":"info"}
+{"message":"🚀 Server ready @port: 3000","level":"info"}
+{"message":"🎉 connected to development db","level":"info"}

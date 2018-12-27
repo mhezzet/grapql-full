@@ -1,0 +1,4 @@
+{
+  "DB_URI": "mongodb://database:27017/SampleDB",
+  "PORT": "3000"
+}

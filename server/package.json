@@ -1,0 +1,31 @@
+{
+  "name": "graphql_server_boilerplate",
+  "version": "1.0.0",
+  "description": "graphql srver using apollo-express-server",
+  "main": "index.js",
+  "repository": "https://github.com/mhezzet/graphql_server_boilerplate.git",
+  "author": "mhezzet <40916821+mhezzet@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "nodemon -r esm .",
+    "start": "node -r esm ."
+  },
+  "dependencies": {
+    "apollo-server-express": "^2.3.1",
+    "config": "^3.0.1",
+    "cors": "^2.8.5",
+    "esm": "^3.0.84",
+    "express": "^4.16.4",
+    "graphql": "^14.0.2",
+    "joi": "^14.3.0",
+    "joi-objectid": "^2.0.0",
+    "jsonwebtoken": "^8.4.0",
+    "mongoose": "^5.4.0",
+    "mongoose-unique-validator": "^2.0.2",
+    "winston": "^3.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
