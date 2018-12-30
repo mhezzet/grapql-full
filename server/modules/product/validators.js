@@ -2,13 +2,13 @@ import Joi from 'joi'
 
 
 const name = Joi.string().max(50).min(3).required()
-const slug = Joi.string().max(10).min(3).required()
+const slug = Joi.string().max(40).min(3).required()
 const image = Joi.string().max(200).min(3).required()
-const description = Joi.string().max(50).min(3)
+const description = Joi.string().max(400).min(3)
 const regular_price = Joi.number().positive().required()
 const sale_price = Joi.number().positive().required()
-const date_on_sale_from = Joi.string().max(50).min(3)
-const date_on_sale_to = Joi.string().max(50).min(3)
+const date_on_sale_from = Joi.string().max(100).min(3)
+const date_on_sale_to = Joi.string().max(100).min(3)
 const manage_stock = Joi.boolean()
 const stock_quantity = Joi.number().positive()
 const sku = Joi.string().max(50).min(3)
@@ -55,9 +55,4 @@ export function productCreateValidation(product) {
 export function productDeleteValidaton(id) {
   const deleteInputSchema = { id:Joi.objectId() }
   return Joi.validate(id, deleteInputSchema)
-}
-
-export function productInputValidatin(id) {
-  const productInputSchema = { id:Joi.objectId() }
-  return Joi.validate(id, productInputSchema)
 }

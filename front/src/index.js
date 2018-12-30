@@ -1,7 +1,12 @@
 import React from 'react'
-import ReactDOM from 'react-dom'
+import { render } from 'react-dom'
+import Apollo from './store'
 import App from './App'
-import 'semantic-ui-css/semantic.min.css'
 import './styles/style.css'
 
-ReactDOM.render(<App />, document.getElementById('root'))
+render(
+  <Apollo>
+    <App />
+  </Apollo>,
+  document.getElementById('root')
+)

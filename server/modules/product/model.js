@@ -11,11 +11,12 @@ const productSchema = new mongoose.Schema(
     },
     slug: {
       type: String,
-      maxlength: 10,
+      maxlength: 40,
       minlength: 3,
       trim: true,
       lowercase: true,
-      required: true
+      required: true,
+      unique: true
     },
     image: {
       type: String,
@@ -25,27 +26,27 @@ const productSchema = new mongoose.Schema(
     },
     description: {
       type: String,
-      maxlength: 50,
+      maxlength: 400,
       minlength: 3
     },
     regular_price: {
       type: Number,
-      min:0,
+      min: 0,
       required: true
     },
     sale_price: {
       type: Number,
-      min:0,
+      min: 0,
       required: true
     },
     date_on_sale_from: {
       type: String,
-      maxlength: 50,
+      maxlength: 100,
       minlength: 3
     },
     date_on_sale_to: {
       type: String,
-      maxlength: 50,
+      maxlength: 100,
       minlength: 3
     },
     manage_stock: {

@@ -2,8 +2,7 @@ import { UserInputError, AuthenticationError } from 'apollo-server-express'
 import {
   productCreateValidation,
   productEditValidation,
-  productDeleteValidaton,
-  productInputValidatin
+  productDeleteValidaton
 } from './validators'
 
 /**
@@ -24,10 +23,7 @@ async function products(_, args, { models: { Product } }) {
 */
 
 async function product(_, args, { models: { Product } }) {
-  const { error } = productInputValidatin(args)
-  if (error) throw new UserInputError(error.details[0].message)
-
-  const product = await Product.findOne({ _id: args.id })
+  const product = await Product.findOne({ slug: args.slug })
   if (!product) throw new UserInputError('no such a product with this id')
 
   return product
@@ -89,7 +85,7 @@ async function editProduct(
 |--------------------------------------------------
 */
 
-async function deletProduct(
+async function deleteProduct(
   _,
   args,
   { models: { Product }, middlewares: { authorization } }
@@ -114,6 +110,6 @@ export default {
   Mutation: {
     createProduct,
     editProduct,
-    deletProduct
+    deleteProduct
   }
 }

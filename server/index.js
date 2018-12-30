@@ -4,11 +4,13 @@ import apolloConnect from './startup/apolloServer'
 import middlewares from './startup/middlewares'
 import database from './startup/database'
 import logger from './utils/logging'
+import seedDB from './utils/seed'
 
 const app = express()
 
 middlewares(app)
 database()
+seedDB()
 apolloConnect(app)
 
 app.listen(config.get('PORT'), () => {

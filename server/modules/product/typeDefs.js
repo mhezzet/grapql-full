@@ -3,13 +3,13 @@ import { gql } from 'apollo-server-core'
 export default gql`
   type Query {
     products: [Product!]!
-    product(id: ID!): Product
+    product(slug: String!): Product
   }
 
   type Mutation {
     createProduct(product: productInput!): Product
     editProduct(id: ID!, product: productInput!): Product
-    deletProduct(id: ID!): Product
+    deleteProduct(id: ID!): Product
   }
 
   input productInput {

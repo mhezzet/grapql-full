@@ -1,9 +1,10 @@
 #wraper {
   column-count: 5;
   min-height: 85vh;
+  padding: 1rem;
 }
 
-#wraper > a {
+#wraper > div {
   overflow: hidden;
   position: relative;
   -webkit-column-break-inside: avoid;
@@ -40,5 +41,7 @@
 }
 
 .center {
-  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
