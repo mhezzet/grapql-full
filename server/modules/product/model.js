@@ -55,7 +55,6 @@ const productSchema = new mongoose.Schema(
     },
     stock_quantity: {
       type: Number,
-      required: true
     },
     sku: {
       type: String,

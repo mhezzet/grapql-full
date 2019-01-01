@@ -9,7 +9,7 @@ function random() {
     name: faker.name.findName(),
     slug: `${faker.name.suffix()}_${faker.lorem.word()}_${faker.helpers.slugify(
       faker.name.findName()
-    )}_${faker.name.suffix()}`,
+    )}`,
     image: 'https://picsum.photos/400/300/?random',
     description: faker.lorem.sentence(),
     regular_price: faker.random.number(),
